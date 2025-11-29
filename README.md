@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Merhaba%2C+Ben+M%C3%BCnib+Akar!+%F0%9F%91%8B;Yaz%C4%B1l%C4%B1m+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;Android+Geli%C5%9Ftirici;Java+Tutkunu" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Merhaba%2C+Ben+M%C3%BCnib+Akar!+%F0%9F%91%8B;DevSecOps+Enthusiast;Cloud+Native+Developer;Microservices+Architect;Containerization+Expert" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <h3>🚀 Yazılım Mühendisliği Öğrencisi | Android Geliştirici</h3>
+  <h3>🚀 DevSecOps Enthusiast | Cloud Native Developer</h3>
   <p>
-    Yazılım dünyasında tutkulu bir kaşifim. Her gün kendimi geliştirmek, yeni teknolojiler öğrenmek ve insanlara fayda sağlayacak projeler üretmek için çalışıyorum.
+    Yazılım geliştirme süreçlerini otomatize etme, güvenli altyapılar kurma ve ölçeklenebilir sistemler tasarlama konusunda tutkulu bir mühendisim. Modern bulut teknolojileri ve konteynerizasyon üzerine odaklanarak, güvenli ve verimli CI/CD süreçleri oluşturuyorum.
   </p>
 </div>
 
@@ -14,18 +14,21 @@
 <div align="center">
   <h3>🛠️ Teknoloji Yığınım</h3>
   
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Bash_Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   
   <br/>
   
-  <!-- Tools & Frameworks -->
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+  <!-- Languages & Others -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
 
 ---
@@ -55,8 +58,9 @@
 
 <div align="center">
   <h3>🌱 Şu Anda Öğreniyorum</h3>
-  <img src="https://img.shields.io/badge/Android_Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/Advanced_Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Advanced Java" />
+  <img src="https://img.shields.io/badge/DevSecOps_Pipelines-4285F4?style=for-the-badge&logo=azure-devops&logoColor=white" alt="DevSecOps" />
+  <img src="https://img.shields.io/badge/Cloud_Security-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Cloud Security" />
+  <img src="https://img.shields.io/badge/Microservices-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Microservices" />
 </div>
 
 ---
