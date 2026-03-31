@@ -38,18 +38,12 @@
   <h3>📊 GitHub Stats:</h3>
   <br/>
   <a href="https://github.com/munibakar">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=munibakar&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=munibakar&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
   </a>
+  
   <a href="https://github.com/munibakar">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=munibakar&theme=tokyonight" alt="Top Langs" height="180"/>
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/munibakar?cardType=level&theme=tokyonight" alt="My Awesome Stats" height="180" />
   </a>
-  <br/>
-  <a href="https://github.com/munibakar">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=munibakar&theme=tokyonight" alt="Profile Details" height="180"/>
-  </a>
-<a href="https://github.com/munibakar">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=munibakar&theme=tokyonight&hide_border=true&include_all_commits=true&v=1" alt="GitHub Streak" height="180"/>
-</a>
 </div>
 
 ---
