@@ -47,6 +47,9 @@
   <a href="https://github.com/munibakar">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=munibakar&theme=tokyonight" alt="Profile Details" height="180"/>
   </a>
+  <a href="https://github.com/munibakar">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=munibakar&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Streak" height="180"/>
+</a>
 </div>
 
 ---
