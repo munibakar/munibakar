@@ -5,7 +5,7 @@
 <div align="center">
   <h3>🚀 DevSecOps Enthusiast | Cloud Native Enthusiast</h3>
   <p>
-    As a senior Software Engineering student, I focus on enhancing the efficiency of the Software Development Life Cycle (SDLC) and building secure infrastructures. Throughout my academic background and project experiences, I have concentrated on modern cloud technologies, containerization (Docker/Kubernetes), and microservice architectures.
+    As a Software Engineer, I focus on enhancing the efficiency of the Software Development Life Cycle (SDLC) and building secure infrastructures. Throughout my academic background and project experiences, I have concentrated on modern cloud technologies, containerization (Docker/Kubernetes), and microservice architectures.
     My passion lies not only in writing code but also in automating CI/CD processes to ensure secure, continuous, and scalable deployment to production environments. As an aspiring engineer who embraces the DevOps culture and delivers proactive solutions in system security and performance optimization, I aim to create value using modern technologies.
   </p>
 </div>
